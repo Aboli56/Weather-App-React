@@ -26,7 +26,7 @@ const App = () => {
       <input
         type="text"
         className="search"
-        placeholder="Search..."
+        placeholder="Enter city name...."
         value={city}
         onChange={(e) => setCity(e.target.value)}
         onKeyPress={search}
