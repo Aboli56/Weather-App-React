@@ -22,7 +22,7 @@ const App = () => {
   };
   return (
     <div className="main-container">
-     <h1>Weather 🡆</h1>
+     <h1>Weather Report</h1>
       <input
         type="text"
         className="search"
